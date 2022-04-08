@@ -1,2 +1,2 @@
 # Calculadora01
- Repositorio versionado
+ Projeto criado em Html, Css e Javascript
